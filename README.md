@@ -1,16 +1,9 @@
 # flutter_nativo
 
-A new Flutter project.
+Sétimo projeto finalizado no curso "Aprenda Flutter e Desenvolva Apps Para Android e IOS 2022".
 
-## Getting Started
+Neste módulo do curso, foi ensinado brevemente como fazer uma comunicação do Flutter com o código nativo em Kotlin e Swift. O usuário faz uma soma simples, onde a requisição é enviado para o MainActivity.kt (se o dispositivo for Android) ou para o AppDelegate.swift (se o dispositivo for iOS).
 
-This project is a starting point for a Flutter application.
+Versão do Flutter: 3.10.2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Gif apresentando o projeto](flutter_nativo.gif)
